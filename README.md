@@ -1,21 +1,49 @@
 <h1 align="center">Hi 👋, I'm Sagar Tayde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MCA Student | Full Stack Developer (PHP & Web)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagartaydedev&label=Profile%20views&color=0e75b6&style=flat" alt="sagartaydedev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Smart College lost and found**
-
-- 🌱 I’m currently learning **Masters in Computer Application (MCA)**
-
-- 📫 How to reach me **sagartayade200t@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-tayde-77b356370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-tayde-77b356370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Lost+%26+Found+Management+System;PHP+%7C+MySQL+%7C+HTML+CSS+JS;Learning+Full+Stack+Development;Future+Software+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+- 🎓 MCA Student  
+- 💻 Passionate about Web Development  
+- 🧠 Working on Smart College Lost & Found System  
+- 🌱 Learning PHP, MySQL, JavaScript  
+- 📍 India  
+
+---
+
+## 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Project
+### 🔹 Smart College Lost & Found System
+- Role based system (Admin / User)
+- Login, Register, Email Verification
+- Lost & Found item management
+- Admin dashboard
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagartaydedev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagartaydedev&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+📧 Email: sagartayde200t@gmail.com  
+
+⭐ Learning daily | Building real projects
